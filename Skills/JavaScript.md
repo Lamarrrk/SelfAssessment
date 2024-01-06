@@ -6,7 +6,7 @@
   - arrow function 🖐️ used
   - async function 🖐️ used
   - call 🖐️ used
-  - bind 🎓 known
+  - bind 🖐️ used
   - apply 🖐️ used
   - instanceof 🖐️ used
   - ...spread 🖐️ used
@@ -34,7 +34,7 @@
   - yield 🎓 known
   - await 🖐️ used
   - template literal 🖐️ used
-  - strict mode 🎓 known
+  - strict mode 🖐️ used
   - delete 🖐️ used
   - in 🖐️ used
   - super 🖐️ used
@@ -58,7 +58,7 @@
   - switch 🖐️ used
   - class 🖐️ used
   - new Error 🖐️ used
-  - with 🎓 known
+  - with 🖐️ used
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
