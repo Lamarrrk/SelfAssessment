@@ -1,95 +1,95 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop 🎓 known
+  - try..catch 🖐️ used
+  - Non-blocking 👂 heard
+  - Async I/O 🎓 known
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
+  - CAS operations 🖐️ used
+  - epoll 👂 heard
+  - kqueue 🎓 known
+  - Completion ports 🎓 known
+  - Event ports 
+  - libuv 🖐️ used
+  - Race conditions 🖐️ used
+  - Dead locks 🖐️ used
+  - Live locks 🖐️ used
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
+  - Actor Model 👂 heard
+  - Thread 🎓 known
+  - Process 🔬 researched
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 👂 heard
+  - Thenable 👂 heard
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
+  - Future 🎓 known
+  - Deferred 👂 heard
+  - Sync generator 🖐️ used
+  - Async Generator 🖐️ used
+  - Async Iterator 🖐️ used
+  - Event 🖐️ used
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 🖐️ used
+  - Stream 🎓 known
+  - Chain of responsibility 🖐️ used
+  - Middleware 🖐️ used
+  - Locks 👂 heard
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify 👂 heard
+  - promisify 🖐️ used
+  - asyncify 🖐️ used
+  - callbacks compose 🖐️ used
+  - async compose 🖐️ used
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter 🎓 known
+  - Observable/Observer 👂 heard
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
+  - Async Pool 🖐️ used
+  - Async Queue 🖐️ used
+  - Async Collector 🖐️ used
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
+  - Spin Lock 🎓 known
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - Timers 🎓 known
+  - setImmediate 🎓 known
+  - nextTick 🎓 known
+  - AbortController 🖐️ used
+  - AbortSignal 🖐️ used
+  - Promise unhandled rejection 👂 heard
+  - Promise double resolve 👂 heard
+  - child_process 🖐️ used
+  - worker_threads 🎓 known
+  - Atomics 📢 talked
+  - High resolution clock 🔬 researched
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
+  - ref() and unref() 🎓 known
+  - Error handling in async code 🖐️ used
+  - Better stack traces with return await 👂 hear
+  - JSON: streaming serialization 🎓 known
+  - promisify 🖐️ used
+  - callbackify 🖐️ used
+  - AsyncLocalStorage 🎓 known
+  - AsyncResource 🎓 known
 - Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - async.js library 🖐️ used
+  - RxJS library 🖐️ used
+  - Async composition 🖐️ used
+  - Promise.all 🎓 known
+  - Promise.allSettled 🎓 known 
+  - Promise.race 🎓 known
+  - Promise.any 🎓 known
+  - Web Locks API 🎓 known 
+  - IPC 🖐️ used
+  - Channel API 🖐️ used 
+  - Revealing Constructor 🎓 known
+  - Web Locks API 🎓 known

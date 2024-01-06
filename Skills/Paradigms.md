@@ -1,43 +1,43 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🖐️ used
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 🎓 known
+  - Generic programming 🎓 known
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 👂 heard
+  - Parallel programming 🎓 known
   - Reactive programming
   - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Automata-based programming 👂 heard
+  - Domain-specific languages 
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
+  - Actor model 
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
+  - constructor 🎓 known
+  - new 🎓 known
+  - Static method 🎓 known
+  - Method 🎓 known
+  - Async method 🎓 known
+  - Getters, Setters 
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 👂 heard
+  - Parent class 🖐️ used
   - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🖐️ used
+  - Object form 🎓 known
   - instance
   - Introspection
   - Reflection
@@ -49,16 +49,16 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy 🎓 known
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
+  - Command 🖐️ used
+  - Iterator 🖐️ used
+  - State 🎓 known
+  - Bridge 🎓 known
+  - Builder 🎓 known
+  - Prototype 🎓 known
   - Composite
-  - Decorator
+  - Decorator 🎓 known
   - Flyweight
   - Mediator
   - Memento
