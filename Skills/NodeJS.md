@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js 🎓 known
-  - Stateful and stateless servers 🎓 known
+  - Stateful and stateless servers 🖐️ used
   - Nonblocking I/O and slocking code 🎓 known
   - Event loop: phases 🎓 known
   - Event loop: microtasks and macrotasks 👂 heard
@@ -22,7 +22,7 @@
   - Module-based permissions model 🖐️ used
   - Isolation with modularity 👂 heard
   - Dependency injection 👂 heard
-  - DI containers 👂 heard
+  - DI containers 🎓 known
   - Coupling and cohesion 👂 heard
   - Framework agnostic approach 👂 heard
 - Environment
@@ -47,18 +47,18 @@
   - AsyncLocalStorage 👂 heard
   - AsyncResource 🖐️ used
   - Deprecated domain API 👂 heard
-  - Node.js single executable 👂 heard
+  - Node.js single executable 🎓 known
   - Stream back pressure 👂 heard
   - SharedArrayBuffer 👂 heard
   - node:worker_threads 🖐️ used
   - node:child_process 🖐️ used
   - MessageChannel, MessagePort 👂 heard
-  - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - BroadcastChannel 
+  - Generating crypto random UUID 👂 heard
+  - node:url vs new URL 👂 heard
+  - node:assert 
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer 🎓 known
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer 👂 heard
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions 👂 heard
   - Endpoint throttling 🎓 known
-  - HTTP(S) 🎓 known
-  - TCP/SSL 🎓 known
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
   - UDP 👂 heard 
   - TLS 👂 heard
   - Websocket 👂 heard
   - SSE 👂 heard
   - HTTP/3 (QUIC) 👂 heard
   - Long polling 👂 heard
-  - REST 👂 heard
+  - REST 🖐️ used
   - RPC 👂 heard
   - Routing 👂 heard
   - DoS 👂 heard
   - DDoS 🎓 known
   - XSS 🎓 known
   - Path traversal
-  - CSRF 
+  - CSRF 👂 heard
   - DNS 🎓 known
   - Fetch API 🎓 known
   - IncomingMessage 🎓 known
-  - SQL injection 🎓 known
+  - SQL injection 🖐️ used
   - noDelay 👂 heard
   - keep-alive 👂 heard
   - ALPN
@@ -130,7 +130,7 @@
   - Availability 🎓 known
   - Flexibility 🎓 known
 - Data access
-  - Data access layer 👂 heard
+  - Data access layer 🖐️ used
   - Repository 🖐️ used
   - Active record 🖐️ used
   - Query builder 🖐️ used
@@ -152,11 +152,11 @@
   - Data race 👂 heard
 - Integrations and bindings
   - Native addons 🎓 known
-  - C and C++ addons 
+  - C and C++ addons 👂 heard
   - Rust addons 🖐️ used
   - Zig addons
   - NAN (Native Abstractions for Node.js) 🖐️ used
-  - Node-API (formerly N-API) 🎓 known
+  - Node-API (formerly N-API) 🖐️ used
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig
