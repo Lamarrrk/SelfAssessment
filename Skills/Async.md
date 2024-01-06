@@ -1,29 +1,29 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
+  - Event loop 🖐️ used
   - try..catch 🖐️ used
-  - Non-blocking 👂 heard
+  - Non-blocking 🎓 known
   - Async I/O 🎓 known
-  - Thread pool 👂 heard
-  - Pattern Reactor 👂 heard
+  - Thread pool 🎓 known
+  - Pattern Reactor 🎓 known
   - CAS operations 🖐️ used
   - epoll 👂 heard
   - kqueue 🎓 known
-  - Completion ports 🎓 known
-  - Event ports 
+  - Completion ports 🖐️ used
+  - Event ports 👂 heard
   - libuv 🖐️ used
   - Race conditions 🖐️ used
   - Dead locks 🖐️ used
   - Live locks 🖐️ used
   - Concurrent programming 🎓 known
-  - Parallel programming 🎓 known
+  - Parallel programming 🖐️ used
   - Actor Model 👂 heard
-  - Thread 🎓 known
+  - Thread 🖐️ used
   - Process 🔬 researched
 - Async contracts
   - Callbacks 🖐️ used
-  - Callback-last-error-first 👂 heard
+  - Callback-last-error-first 🎓 known
   - Thenable 👂 heard
   - Promise 🖐️ used
   - Async/await 🖐️ used
@@ -33,15 +33,15 @@
   - Async Generator 🖐️ used
   - Async Iterator 🖐️ used
   - Event 🖐️ used
-  - Coroutine 👂 heard
-  - Goroutine 👂 heard
+  - Coroutine 🎓 known
+  - Goroutine 🎓 known
   - Signal 🖐️ used
   - Stream 🎓 known
   - Chain of responsibility 🖐️ used
   - Middleware 🖐️ used
-  - Locks 👂 heard
+  - Locks 🎓 known
 - Async adapters and utils
-  - callbackify 👂 heard
+  - callbackify 🖐️ used
   - promisify 🖐️ used
   - asyncify 🖐️ used
   - callbacks compose 🖐️ used
@@ -59,15 +59,15 @@
   - Mutex 👂 heard
   - Spin Lock 🎓 known
 - JavaScript & Node.js specific
-  - Timers 🎓 known
-  - setImmediate 🎓 known
+  - Timers 🖐️ used
+  - setImmediate 🖐️ used
   - nextTick 🎓 known
   - AbortController 🖐️ used
   - AbortSignal 🖐️ used
   - Promise unhandled rejection 👂 heard
   - Promise double resolve 👂 heard
   - child_process 🖐️ used
-  - worker_threads 🎓 known
+  - worker_threads 🖐️ used
   - Atomics 📢 talked
   - High resolution clock 🔬 researched
   - Callback hell 🎓 known
@@ -84,12 +84,12 @@
   - async.js library 🖐️ used
   - RxJS library 🖐️ used
   - Async composition 🖐️ used
-  - Promise.all 🎓 known
-  - Promise.allSettled 🎓 known 
+  - Promise.all 🖐️ used
+  - Promise.allSettled 🖐️ used 
   - Promise.race 🎓 known
   - Promise.any 🎓 known
-  - Web Locks API 🎓 known 
+  - Web Locks API 🖐️ used 
   - IPC 🖐️ used
   - Channel API 🖐️ used 
   - Revealing Constructor 🎓 known
-  - Web Locks API 🎓 known
+  - Web Locks API 🖐️ used
